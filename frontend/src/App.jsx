@@ -1,10 +1,11 @@
 import { useState } from 'react'
 import './App.css'
+import HomePage from './landing_page/home/HomePage';
 
 function App() {
   return (
     <>
-      <h1>TreadPe - A full-stack stock trading platform built with MERN Stack</h1>
+      <HomePage></HomePage>
     </>
   )
 }
