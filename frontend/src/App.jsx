@@ -1,8 +1,8 @@
-import { useState } from 'react'
-import './App.css'
-import HomePage from './landing_page/home/HomePage';
+import { Search, Bell } from './icons/icons'
+import  HomePage  from '/src/pages/home/HomePage.jsx'
 
 function App() {
+
   return (
     <>
       <HomePage></HomePage>

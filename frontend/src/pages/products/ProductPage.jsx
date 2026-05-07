@@ -1,9 +1,9 @@
-import Footer from "../Footer";
-import Nabvar from "../Navbar";
-import Hero from "./Hero";
-import LeftSection from "./LeftSection";
-import RightSection from "./RightSection";
-import Universe from "./Universe";
+import Footer from "../../components/layout/Footer.jsx";
+import Nabvar from "../../components/layout/Navbar.jsx";
+import Hero from "./Hero.jsx";
+import LeftSection from "./LeftSection.jsx";
+import RightSection from "./RightSection.jsx";
+import Universe from "./Universe.js";
 
 export default function ProductPage() {
     return (
